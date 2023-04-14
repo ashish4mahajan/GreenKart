@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class base {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub here
 		System.setProperty("webdriver.chrome.driver","C:/Users/mahaj/Downloads/chromedriver_win32 (1)/chromedriver.exe");
 		ChromeDriver driver = new ChromeDriver();
 		driver.get("https://rahulshettyacademy.com/seleniumPractise/#/");
